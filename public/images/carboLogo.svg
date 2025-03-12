@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:15;">
+    <g transform="matrix(1,0,0,1,0.868307,-23.8784)">
+        <g transform="matrix(0.994969,0,0,0.994969,3.14486,14.6364)">
+            <g transform="matrix(1,0,0,1,0.286544,7.83212)">
+                <g transform="matrix(1.00506,-0,-0,1.00506,-4.32001,1.45662)">
+                    <use xlink:href="#_Image1" x="19.409" y="35.392" width="23.089px" height="22.225px" transform="matrix(0.962032,0,0,0.966297,0,0)"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,28.2865,7.83212)">
+                <g transform="matrix(1.00506,-0,-0,1.00506,-32.32,1.45662)">
+                    <use xlink:href="#_Image1" x="48.368" y="35.392" width="23.089px" height="22.225px" transform="matrix(0.962032,0,0,0.966297,0,0)"/>
+                </g>
+            </g>
+            <g transform="matrix(-1,3.21358e-16,-3.21358e-16,-1,66.4109,101.799)">
+                <g transform="matrix(-1.00506,-3.22983e-16,3.22983e-16,-1.00506,70.4443,92.5106)">
+                    <use xlink:href="#_Image2" x="33.915" y="35.364" width="23.089px" height="22.225px" transform="matrix(0.962032,0,0,0.966297,0,0)"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-21.7077,20.8394)">
+            <text x="91.385px" y="58.597px" style="font-family:'CambriaMath', 'Cambria Math', serif;font-size:33.333px;fill:white;">Car<tspan x="140.034px 158.279px " y="58.597px 58.597px ">bo</tspan>Security</text>
+        </g>
+        <g transform="matrix(1,0,0,1,13.3949,-1.42109e-14)">
+            <text x="4.988px" y="94.683px" style="font-family:'CambriaMath', 'Cambria Math', serif;font-size:10.417px;fill:rgb(196,236,253);">Pr<tspan x="15.059px 20.588px " y="94.683px 94.683px ">ot</tspan>ection intelligente pour un monde en mou<tspan x="210px 215.046px 220.127px " y="94.683px 94.683px 94.683px ">vem</tspan>ent</text>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="24px" height="23px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB0ElEQVRIibWSvWvbQByGr0m5kyEZfpaGZspk6NIaDEo9hWYypGs0J2PTD2hDMt9f4D/A7VCKsqdoMfEQENEgE2ywF39MAmEPko2EMBQOJHU6kw87sRT1hXeTnuc96RBKEMMwCoZhFJK8kyiO4/x0HOfHf4E3m823jDGfMeabpvkmc4HruudxHAdxHAeu66qZwtvt9rswDAMuCMMwaLVaO5kJptPpHw7nnUwmF5nAu93uXhRFwX1BFEVBp9N5/yw4pXTN87zGfTiv53mXlNK11IJ+v/9h0frbp+j1evup4IqirPu+f70Mzuv7/rWiKOuJBcPhUHkKzjsYDA6WcRaaKaW4Uqn8whiLq4whhLzGGP/WdT1cab1lWUerrue1LOtwEevBDajVajlJkk5XWnIrkiSdVqvV3JMP2rZ9nHQ9r23bHx89gaqqm6IoniRdzyOK4omqqptLHxiPx2dp1/OORqM7n3d+Ak3TRAD4knY9Tz6f/6pp2vz2zQWyLH8WBAGeKxAEAWRZ/nRH0Gg0tgDgwQ9KGwA4rtfrr+aCYrH4jRCykZWAELJRKpW+I4TQC13Xt8vl8g3GWMhKgBBCjLG/pmnuvASA3dlsdpUlnAcAdv8BTgf0GX66e4cAAAAASUVORK5CYII="/>
+        <image id="_Image2" width="24px" height="23px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACPUlEQVRIibVRS2gTURQ9CVFcCUqVtrQWqhWFInTlUqobqVA/VMSFUNwJdiFiV3UjlH5QFKFYI2KqYhYNtQlNFMREmmKQQtNoUJP+zKfJ1IRkZjL5zGQy4yolTTLNTBLP7t5z7zn3vKd6bXfdaGhqvoD/gGg4ZNbQ8dj8kWPHH2n27N1XT3E+y6WpWHRQfbu325egyFf1FAeABEXqBi6e86sBYNXtepLlWKZe4lmOZbwu52MAUAPAnb7z4QRJTtbLIEGSz+5e6yG2DQDgl3NxgmMz8VrFOTYTcy86JvK1qpCcdQfvNTQ23a/FIEqEH1zqbHmYr9WF5JLdOsmm00S14mw6TSzZrc8Le6rioZnvvluHm1vGqjH4GwoOXjnVtuMv1cVDjk8WXSaV9CsVz6SSPqtxeqq4X5IAAAzO9f7G1ranSgyIgG+gr6u9xKAkAQBY9Lp3qSTjlSueYhiPRa/Tl+PKJgAA/bffV1uPdryUYxBYW7l5/fQJQzmubAIA0A4PzTA05aokztDUsnZ46L0UL2lgMxlykfDmqCiKkuKiKCISCo7aTIacYgMAsBmnPzA05ZDiGZr6ajMZPu6mIfkHeUzNL3e3n+w0qlQ7R0VRxNrPH739Z7q+1GQAAJaVyOz+AwfPFvboeOxzT8ehy5V2d32iPIigf0QQhO1aEAQQAd+InF3ZMHu33i5Ec/RCNEebvVtv5O7JSgAAoT8b4zzPCzzPC5sb6+PVnVkBcx7ixZyH0CrZ0SgZ9q96FV/+Dxpf+nvtt0qcAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>
